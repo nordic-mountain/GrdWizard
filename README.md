@@ -1,4 +1,5 @@
-<p align="center">🧙‍♂️</p>
+<h1 align="center">GrdWisard</h1>
+<p align="center">A terminal based test score calculator</p>
 
 
 # About
