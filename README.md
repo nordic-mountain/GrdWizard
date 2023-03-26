@@ -1,25 +1,5 @@
-                    ____ 
-                  .'* *.'
-               __/_*_*(_
-              / _______ \
-             _\_)/___\(_/_ 
-            / _((\- -/))_ \
-            \ \())(-)(()/ /
-             ' \(((()))/ '
-            / ' \)).))/ ' \
-           / _ \ - | - /_  \
-          (   ( .;''';. .'  )
-          _\"__ /    )\ __"/_
-            \/  \   ' /  \/
-             .'  '...' ' )
-              / /  |  \ \
-             / .   .   . \
-            /   .     .   \
-           /   /   |   \   \
-         .'   /    b    '.  '.
-     _.-'    /     Bb     '-. '-._ 
- _.-'       |      BBb       '-.  '-. 
-(________mrf\____.dBBBb.________)____)
+<h1 align="center">🧙‍♂️</h1>
+
 
 # About
 A terminal based test score calculator that calculates your grade, based on the correct answers and how many questions the test has.
